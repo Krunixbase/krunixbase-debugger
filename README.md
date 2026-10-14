@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deterministic Debugger — Krunixbase Tools
 Deterministic Debugger for Krunixbase Ecosystem — global error catcher, promise handler, WebSocket monitor, AudioContext diagnostics, and Svelte integration.
 
@@ -28,3 +29,7 @@ Deterministic Debugger for Krunixbase Ecosystem — global error catcher, promis
 - `/docs/` — module documentation
 - `/package.json` — npm module
 - `/README.md` — repository description
+=======
+# krunixbase-debugger
+Deterministic Debugger for Krunixbase Ecosystem — global error catcher, promise handler, WebSocket monitor, AudioContext diagnostics, and Svelte integration.
+>>>>>>> fe1a419c6d8cc3d311488c15ed2514afb52f77d2
