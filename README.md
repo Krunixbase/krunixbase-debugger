@@ -18,16 +18,3 @@ Deterministic Debugger for Krunixbase Ecosystem — global error catcher, promis
 
 ---
 
-# Repostory Structure
-`krunixbase-debugger`
-
-- `/src/Debugger.svelte` — main UI module
-- `/src/debug.js` — API for logging from other modules
-- `/src/hooks/global.js` — global error catching
-- `/examples/` — integration examples
-- `/tests/` — deterministic tests
-- `/docs/` — module documentation
-- `/package.json` — npm module
-- `/README.md` — repository description
-
----
