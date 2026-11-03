@@ -1,0 +1,37 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+build/
+coverage/
+
+# logs
+*.log
+npm-debug.log*
+
+# environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Svelte
+.svelte-kit/
+
+# cache
+.cache/
+
+# test
+playwright-report/
+test-results/
+
+# temp
+tmp/
+temp/
